@@ -4,8 +4,8 @@
 
 # 🚀 A passionate student & aspiring web developer from Kazakhstan  
 
-- 🌱 I’m currently learning **Python, Web Development (Frontend + Backend)**.  
-- 💻 I’m working on building real IT projects this summer to strengthen my portfolio.  
+- 🌱 I’m currently learning **С++, C#**.  
+- 💻 I’m working on building real IT projects this year to strengthen my portfolio.  
 - 🎬 I also enjoy **video editing in After Effects** and creating engaging digital content.  
 - 🏫 Currently serving as **School President** (since October 2024), organizing student events and launching initiatives.  
 - 🤝 I’m looking to collaborate on **web projects, edTech ideas, and student-led startups**.  
